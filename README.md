@@ -25,9 +25,9 @@ Basic knowledge of MySQL and DuckDB for SQL syntax understanding.
 ## Setup
 1. Clone the repository:
    git clone https://github.com/yourusername/mysql-to-duckdb-converter.git
-   cd mysql-to-duckdb-converter
+2. cd mysql-to-duckdb-converter
 3. Install dependencies:
    pip install -r requirements.txt
-5. Environment Variables:
-   GOOGLE_API_KEY=your_google_api_key
+4. Edit the main file and include the query you want to convert
+5. Run the main file to get the output.
 
